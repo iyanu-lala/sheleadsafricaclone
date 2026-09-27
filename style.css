@@ -524,7 +524,7 @@ input {
 .sl {
     height: 180px;
     width: 210px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     margin-left: 120px;
     margin-top: 80px;
 }
